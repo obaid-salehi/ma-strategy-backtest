@@ -38,12 +38,13 @@ print("Asset Sharpe Ratio:",AssetSharpe)
 print(" ")
 print(df)
 
-# plt.plot(df.index,df["AssetReturn"],label="Asset Price",c="r",lw=1)
-# plt.plot(df.index,df["TotalReturn"],label="Strategy Portfolio",c="b",lw=1)
-# plt.title("Strategy (Blue) vs. Asset (Red)")
-# plt.xlabel("Date")
-# plt.ylabel("Value")
-# plt.show()
+plt.plot(df.index,df["AssetReturn"],label="Asset Price",c="r",lw=1)
+plt.plot(df.index,df["TotalReturn"],label="Strategy Portfolio",c="b",lw=1)
+plt.title("Strategy (Blue) vs. Asset (Red)")
+plt.xlabel("Date")
+plt.ylabel("Value")
+plt.show()
+
 
 
 
