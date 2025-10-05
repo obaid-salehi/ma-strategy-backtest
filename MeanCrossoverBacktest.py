@@ -44,8 +44,3 @@ plt.title("Strategy (Blue) vs. Asset (Red)")
 plt.xlabel("Date")
 plt.ylabel("Value")
 plt.show()
-
-
-
-
-
