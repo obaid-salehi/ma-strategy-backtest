@@ -12,10 +12,10 @@ It measures returns, risk, and performance metrics over a 10-year period using h
 
 ## Tools & Libraries
 - **Python**
-- **pandas** — data manipulation & rolling averages  
-- **yfinance** — historical price data  
-- **matplotlib** — performance visualisation  
-- **NumPy** — vectorised calculations
+- **pandas**: data manipulation & rolling averages  
+- **yfinance**: historical price data  
+- **matplotlib**: performance visualisation  
+- **NumPy**: vectorised calculations
 
 ---
 
