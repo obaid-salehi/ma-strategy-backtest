@@ -29,6 +29,5 @@ It measures returns, risk, and performance metrics over a 10-year period using h
 ---
 
 ## Results
-- Achieved a Sharpe ratio of ≈ 0.6 on the S&P 500 test period  
-- Outperformed Nvidia stock by **+0.217** in Sharpe ratio  
+- Outperformed Nvidia stock by **+0.217** in Sharpe ratio (1.77)
 - Demonstrated clear risk-adjusted improvement during sustained up-trends
